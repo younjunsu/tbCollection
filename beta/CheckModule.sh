@@ -1,9 +1,3 @@
-#!/bin/bash
-CurrentDirectory=
-
-
-SartTime=
-EndTime=
 Collection_=
 Collection_NetManager=
 Collection_ProSync=
